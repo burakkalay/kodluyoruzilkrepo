@@ -6,4 +6,26 @@ Tabii ben bunlara ek olarak "css, js dosyalarını da ekledim nasıl çalıştı
 ***
 ![Lorem Picsum Gorsel](https://picsum.photos/200/300)
 ***
-From [Burak Kalay](https://app.patika.dev/brkkly)
+# Installation
+Öncellikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```
+https://github.com/burakkalay/kodluyoruzilkrepo.git
+```
+
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
+# Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+***
+### From [Burak Kalay](https://app.patika.dev/brkkly)
