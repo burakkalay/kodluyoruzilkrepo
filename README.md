@@ -6,4 +6,4 @@ Tabii ben bunlara ek olarak "css, js dosyalarını da ekledim nasıl çalıştı
 ***
 ![Lorem Picsum Gorsel](https://picsum.photos/200/300)
 ***
-From [Burak Kalay](https://github.com/burakkalay/kodluyoruzilkrepo)
+From [Burak Kalay](https://app.patika.dev/brkkly)
