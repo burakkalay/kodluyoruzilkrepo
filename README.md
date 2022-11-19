@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ***
-### From [Burak Kalay](https://app.patika.dev/brkkly)
+### From [Burak Kalay](https://app.patika.dev/brkkly09)
